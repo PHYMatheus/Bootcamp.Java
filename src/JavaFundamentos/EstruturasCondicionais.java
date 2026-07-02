@@ -1,3 +1,5 @@
+package JavaFundamentos;
+
 import java.util.Scanner;
 
 public class EstruturasCondicionais {
