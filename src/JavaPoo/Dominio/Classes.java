@@ -1,6 +1,6 @@
 package JavaPoo.Dominio;
 
-public class Carro {
+public class Classes {
 
     public String nome;
     public String modelo;

@@ -1,16 +1,16 @@
 package JavaPoo.test;
 
-import JavaPoo.Dominio.Carro;
+import JavaPoo.Dominio.Classes;
 
-public class Loja {
+public class ClassesTest {
     public static void main(String[] args) {
 
-        Carro carro1 = new Carro();
+        Classes carro1 = new Classes();
             carro1.nome = "CIVIC";
             carro1.modelo = "XRL";
             carro1.ano = 2011;
             
-        Carro carro2 = new Carro();
+        Classes carro2 = new Classes();
             carro2.modelo = "GTI";
             carro2.ano = 2020;
             carro2.nome = "GOLF";
