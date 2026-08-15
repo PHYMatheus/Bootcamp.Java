@@ -61,7 +61,7 @@ O objetivo é documentar minha jornada, compartilhar projetos e acompanhar minha
 ├── Spring Boot
 ├── APIs REST
 ├── Banco de Dados
-├── Projetos Práticos
+├── JavaPoo.Projetos Práticos
 └── Desafios
 ```
 
@@ -94,13 +94,13 @@ Git/GitHub        █████████░░░░░░░░
 
 ---
 
-# 🚀 Projetos Desenvolvidos
+# 🚀 JavaPoo.Projetos Desenvolvidos
 
 - 📌 Exercícios Java
 - 📌 Desafios de Lógica
 - 📌 Sistema CRUD
 - 📌 API REST com Spring Boot
-- 📌 Projetos completos do Bootcamp
+- 📌 JavaPoo.Projetos completos do Bootcamp
 
 ---
 
